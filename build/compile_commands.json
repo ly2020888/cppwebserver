@@ -1,0 +1,55 @@
+[
+{
+  "directory": "/home/liuyi/cpp/WebServer/build",
+  "command": "/usr/bin/g++    -g   -o CMakeFiles/server.dir/config.cpp.o -c /home/liuyi/cpp/WebServer/config.cpp",
+  "file": "/home/liuyi/cpp/WebServer/config.cpp"
+},
+
+{
+  "directory": "/home/liuyi/cpp/WebServer/build",
+  "command": "/usr/bin/g++    -g   -o CMakeFiles/server.dir/main.cpp.o -c /home/liuyi/cpp/WebServer/main.cpp",
+  "file": "/home/liuyi/cpp/WebServer/main.cpp"
+},
+
+{
+  "directory": "/home/liuyi/cpp/WebServer/build",
+  "command": "/usr/bin/g++    -g   -o CMakeFiles/server.dir/webserver.cpp.o -c /home/liuyi/cpp/WebServer/webserver.cpp",
+  "file": "/home/liuyi/cpp/WebServer/webserver.cpp"
+},
+
+{
+  "directory": "/home/liuyi/cpp/WebServer/build",
+  "command": "/usr/bin/g++    -g   -o http/CMakeFiles/http.dir/http_conn.cpp.o -c /home/liuyi/cpp/WebServer/http/http_conn.cpp",
+  "file": "/home/liuyi/cpp/WebServer/http/http_conn.cpp"
+},
+
+{
+  "directory": "/home/liuyi/cpp/WebServer/build",
+  "command": "/usr/bin/g++    -g   -o lock/CMakeFiles/lock.dir/lock.cpp.o -c /home/liuyi/cpp/WebServer/lock/lock.cpp",
+  "file": "/home/liuyi/cpp/WebServer/lock/lock.cpp"
+},
+
+{
+  "directory": "/home/liuyi/cpp/WebServer/build",
+  "command": "/usr/bin/g++    -g   -o log/CMakeFiles/log.dir/log.cpp.o -c /home/liuyi/cpp/WebServer/log/log.cpp",
+  "file": "/home/liuyi/cpp/WebServer/log/log.cpp"
+},
+
+{
+  "directory": "/home/liuyi/cpp/WebServer/build",
+  "command": "/usr/bin/g++    -g   -o threadpool/CMakeFiles/threadpool.dir/threadpool.cpp.o -c /home/liuyi/cpp/WebServer/threadpool/threadpool.cpp",
+  "file": "/home/liuyi/cpp/WebServer/threadpool/threadpool.cpp"
+},
+
+{
+  "directory": "/home/liuyi/cpp/WebServer/build",
+  "command": "/usr/bin/g++    -g   -o timer/CMakeFiles/timer.dir/lst_timer.cpp.o -c /home/liuyi/cpp/WebServer/timer/lst_timer.cpp",
+  "file": "/home/liuyi/cpp/WebServer/timer/lst_timer.cpp"
+},
+
+{
+  "directory": "/home/liuyi/cpp/WebServer/build",
+  "command": "/usr/bin/g++    -g   -o CGImysql/CMakeFiles/CGImysql.dir/sql_connection_pool.cpp.o -c /home/liuyi/cpp/WebServer/CGImysql/sql_connection_pool.cpp",
+  "file": "/home/liuyi/cpp/WebServer/CGImysql/sql_connection_pool.cpp"
+}
+]

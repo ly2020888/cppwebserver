@@ -1,0 +1,19 @@
+# ninja log v5
+0	8	1694761443759833849	lock/CMakeFiles/lock.dir/lock.cpp.o	19168b18130dd281
+1	9	1694761443759833849	threadpool/CMakeFiles/threadpool.dir/threadpool.cpp.o	cdaceb0f199f1d10
+9	36	1694761443789833849	threadpool/libthreadpool.a	24d246bbdcfb9bed
+8	37	1694761443789833849	lock/liblock.a	285c29df9e0aa0ba
+1	132	1694761443879833848	log/CMakeFiles/log.dir/log.cpp.o	68568c83c5759955
+132	154	1694761443909833848	log/liblog.a	4d3dfe2bdd7bf9de
+1	157	1694761443909833848	CGImysql/CMakeFiles/CGImysql.dir/sql_connection_pool.cpp.o	cb37a28a422b48f9
+0	161	1694761443909833848	CMakeFiles/server.dir/config.cpp.o	4b89c5d6a0277a1e
+1	171	1694761443919833848	timer/CMakeFiles/timer.dir/lst_timer.cpp.o	5440c69dccaf8616
+0	181	1694761443929833848	CMakeFiles/server.dir/main.cpp.o	d91bcf51b919e94b
+157	183	1694761443929833848	CGImysql/libCGImysql.a	18c2c5a91b4d5cd6
+171	195	1694761443949833848	timer/libtimer.a	1e5ebcba709b44b
+0	230	1694761443979833848	CMakeFiles/server.dir/webserver.cpp.o	2b241986876c7be
+0	280	1694761444029833848	http/CMakeFiles/http.dir/http_conn.cpp.o	b29c845abb915ad3
+280	302	1694761444049833848	http/libhttp.a	b7f24f35244e9bdf
+302	512	1694761444259833847	../bin/server	71ec92056ef6198b
+1	157	1694761871079832646	CMakeFiles/server.dir/main.cpp.o	d91bcf51b919e94b
+157	372	1694761871289832646	../bin/server	71ec92056ef6198b

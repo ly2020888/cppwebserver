@@ -1,5 +1,14 @@
 {
     "files.associations": {
-        "*.tcc": "cpp"
-    }
+        "*.S": "arm",
+        "*.tcc": "cpp",
+        "iostream": "cpp"
+    },
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/home/liuyi/cpp/WebServer",
+            "binaryPath": "/home/liuyi/cpp/WebServer/server",
+            "binaryArgs": []
+        }
+    ]
 }

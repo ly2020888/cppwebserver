@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/server.dir/config.cpp.o CMakeFiles/server.dir/main.cpp.o CMakeFiles/server.dir/webserver.cpp.o  -o ../bin/server   -L/home/liuyi/cpp/WebServer/lib  -Wl,-rpath,/home/liuyi/cpp/WebServer/lib http/libhttp.a lock/liblock.a threadpool/libthreadpool.a log/liblog.a timer/libtimer.a CGImysql/libCGImysql.a -lmysqlclient -lpthread 
